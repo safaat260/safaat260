@@ -1,16 +1,29 @@
-## Hi there 👋
+![MasterHead](https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-34.gif)
+<h1 align="center">Hello, I'm Fahim Safaat</h1>
+<h3 align="center">I am a student of SWE dept. currently learning Flutter App Development</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/throwing-computer-498-x-372-gif-3l9y3dmxsty367rs.webp">
 
-<!--
-**safaat260/safaat260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safaat260&label=Profile%20views&color=0e75b6&style=flat" alt="safaat260" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Flutter App development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Android, Flutter**
+
+- 📫 How to reach me **akondo7531@gmail.com**
+
+- ⚡ Fun fact **I love tech. & exploring**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/safaat-aknada-fahim-319a7a275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safaat-aknada-fahim-319a7a275/" height="30" width="40" /></a>
+<a href="https://instagram.com/fahim_safaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahim_safaat" height="30" width="40" /></a>
+<a href="https://discord.gg/Fahim#1837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fahim#1837" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safaat260&show_icons=true&locale=en" alt="safaat260" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safaat260&" alt="safaat260" /></p>
