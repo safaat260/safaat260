@@ -1,4 +1,3 @@
-
 <img align="top" alt="Coding" height="350" width="1050" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZ6czMwdW5pMW5mb3FrN29teDEwaDVpMHZjaW4zbjBtaHo3MnR3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQljFDYDmmLH3H7lYy/giphy.gif">
 <h1 align="center">Hello, I'm Fahim Safaat</h1>
 <h3 align="center">I am a student of SWE dept. currently learning App Development with Flutter</h3>
