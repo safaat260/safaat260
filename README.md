@@ -1,7 +1,7 @@
-<img align="top" alt="Coding" height="350" width="1050" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZ6czMwdW5pMW5mb3FrN29teDEwaDVpMHZjaW4zbjBtaHo3MnR3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQljFDYDmmLH3H7lYy/giphy.gif">
+<img align="top" alt="Coding" height="550" width = "1050" src="https://giffiles.alphacoders.com/211/211931.gif">
 <h1 align="center">Hello, I'm Fahim Safaat</h1>
 <h3 align="center">I am a student of SWE dept. currently learning App Development with Flutter</h3>
-<img align="right" alt="Coding" width="450" height="300" src="https://gifdb.com/images/high/throwing-computer-498-x-372-gif-3l9y3dmxsty367rs.webp">
+<img align="right" alt="Coding" width="450" height="300" src="https://media1.tenor.com/m/ny7JlBy4E1QAAAAd/computer-thumbs-up.gif-3l9y3dmxsty367rs.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safaat260&label=Profile%20views&color=0e75b6&style=flat" alt="safaat260" /> </p>
 
