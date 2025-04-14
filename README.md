@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" height="550" width = "1050" src="https://giffiles.alphacoders.com/211/211931.gif">
+<img align="top" alt="Coding" height="500" width = "1050" src="https://giffiles.alphacoders.com/211/211931.gif">
 <h1 align="center">Hello, I'm Fahim Safaat</h1>
 <h3 align="center">I am a student of SWE dept. currently learning App Development with Flutter</h3>
 <img align="right" alt="Coding" width="450" height="300" src="https://media1.tenor.com/m/ny7JlBy4E1QAAAAd/computer-thumbs-up.gif-3l9y3dmxsty367rs.webp">
