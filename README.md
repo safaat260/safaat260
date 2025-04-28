@@ -1,7 +1,7 @@
-<img align="top" alt="Coding" height="370" src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-34.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+<img align="top" alt="Coding" height="350" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/3e38c81f-403a-466e-ae28-3e4818c06362/Kakashi+Hatake+in+Snowfall?format=2500w">
 <h1 align="center">Hello, I'm Fahim Safaat</h1>
 <h3 align="center">I am a student of SWE dept. currently learning App Development with Flutter</h3>
-<img align="right" height="300" alt="Coding" height="250" src="https://i.imgur.com/f3VhYRB.gif">
+<img align="right" height="350" alt="Coding" height="100" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=2500w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safaat260&label=Profile%20views&color=0e75b6&style=flat" alt="safaat260" /> </p>
 
