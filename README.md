@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Android, Flutter**
 
-- 📫 How to reach me **akondo7531@gmail.com**
+- 📫 Reach me by: **akondo7531@gmail.com**
 
-- ⚡ Fun fact **I love tech. & exploring**
+- ⚡ Facts about me: **I love tech. & exploring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
