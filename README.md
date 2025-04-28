@@ -1,7 +1,7 @@
 <img align="top" alt="Coding" height="370" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/3e38c81f-403a-466e-ae28-3e4818c06362/Kakashi+Hatake+in+Snowfall?format=2500w">
 <h1 align="center">Hello, I'm Fahim Safaat</h1>
 <h3 align="center">I am a student of SWE dept. currently learning App Development with Flutter</h3>
-<img align="right" height="280" alt="Coding" height="100" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=2500w">
+<img align="right" height="300" alt="Coding" height="100" src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/fbabc357-b945-4e72-8881-b94e68522174/Cozy+Home+Office?format=2500w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safaat260&label=Profile%20views&color=0e75b6&style=flat" alt="safaat260" /> </p>
 
